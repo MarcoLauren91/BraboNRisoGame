@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78125583613fcd549ad97321e18640c5, type: 3}
+  m_Name: Fala1-1
+  m_EditorClassIdentifier: 
+  fala: Eu sei de muitas coisas. he he
+  respostas:
+  - resposta: "Ent\xE3o aproveita e me diz onde encontr\xE1-la. "
+    proximaFala: {fileID: 11400000, guid: 136b52c699d95eb49a40861a99d26587, type: 2}
+    concluiPuzzle: 0
+    possuiAcao: 0
+    respostaFinal: 0
+  - resposta: "Muito suspeito isso hein. Quem \xE9 voc\xEA?"
+    proximaFala: {fileID: 11400000, guid: ce326cffb0a8b3f458084f08ce739ee3, type: 2}
+    concluiPuzzle: 0
+    possuiAcao: 0
+    respostaFinal: 0

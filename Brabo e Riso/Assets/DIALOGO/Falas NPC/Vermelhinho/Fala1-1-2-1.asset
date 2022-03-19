@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78125583613fcd549ad97321e18640c5, type: 3}
+  m_Name: Fala1-1-2-1
+  m_EditorClassIdentifier: 
+  fala: 10 Moedas de bronze!
+  respostas:
+  - resposta: "Ok, mas eu n\xE3o tenho essa quantia."
+    proximaFala: {fileID: 11400000, guid: b0096cef0e65ee34d9bc1c99b4ae900f, type: 2}
+    concluiPuzzle: 0
+    possuiAcao: 0
+    respostaFinal: 0
+  - resposta: "Fazer o que n\xE9, toma aqui!"
+    proximaFala: {fileID: 11400000, guid: 977b68f3c83ffd64e80ec24c595002bd, type: 2}
+    concluiPuzzle: 0
+    possuiAcao: 0
+    respostaFinal: 0
